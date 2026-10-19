@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "Tick-Aligned Position",
+    "description": "Renders your player at its exact tick position instead of interpolating between ticks. Toggle with H.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": ["greatericontop"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
